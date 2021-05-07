@@ -6,7 +6,9 @@ Virtual Keyboard for broken keyboard you can use it with mouse only
 
 Open source you can check the code and change it your needs
 
-### Follow Me
-> Instagram : https://www.instagram.com/abdulkader.safi/
+### Follow Me Abdulkader Safi
+> github : https://github.com/Abdulkader-Safi
+
+> instegram : https://www.instagram.com/abdulkader.safi/
 
 > twitter : https://twitter.com/AbdulkaderSafi
